@@ -1,0 +1,3 @@
+src/main/resources/localhost-cert.pem
+src/main/resources/localhost-cert-key.pem
+target/
